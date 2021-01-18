@@ -81,5 +81,6 @@ The four major changes that may be obsereved include:
 1. Average reading score
 2. Percent passing math
 3. Percent passing reading
-4. Percent overall passing
+4. Percent overall passing.
+
 However, from overall perspective, these changes have minimal or no significance. Moreover, from individual perspective, these major changes can result to either a student passing or failing the class. or possibly retaking the tests. 
