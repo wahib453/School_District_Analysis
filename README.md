@@ -5,11 +5,11 @@ Due to an academic dishonesty reported on Thomas High School grades, Maria has a
 ## Results Using bulleted lists and images of DataFrames as support, address the following questions.
 How is the district summary affected?
 the impact of replacing the Thomas High School grades with NaN overall has no or minimal signifance on the district summary. Compare to the original data, the summary reveals couple of things based on the original and edited data:
-(1) Average Math score based on the original data is 79.0 but on the edited data is 78.9. 
-(2) Average reading score based on the original data is 81.9 but on the edited data is 81.9
-(3) Percentage of passing Math on the original data is 75 but 74.8 on the edited data
-(4) Percentage of passing Reading on the original data is 85.8 but 85.7 on the edited data
-(5) Percentage of passing Reading on the original data is 85.8 but 85.7 on the edited data
+1. Average Math score based on the original data is 79.0 but on the edited data is 78.9. 
+2. Average reading score based on the original data is 81.9 but on the edited data is 81.9
+3. Percentage of passing Math on the original data is 75 but 74.8 on the edited data
+4. Percentage of passing Reading on the original data is 85.8 but 85.7 on the edited data
+5. Percentage of passing Reading on the original data is 85.8 but 85.7 on the edited data
 
 Figure 1.1: District Summary of the Original Data
 
