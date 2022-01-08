@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of the school district analysis
-Due to an academic dishonesty reported on Thomas High School grades, Maria has asked me to replace the scores on Math and Reading with NaNs leaving other school unaffected and see how the changes affect the whole scores.  
+Due to an academic dishonesty reported on Thomas High School grades, Maria has asked you to replace the scores on Math and Reading with NaNs leaving other school unaffected and see how the changes affect the whole scores.  
 
 ## Results Using bulleted lists and images of DataFrames as support, address the following questions.
 How is the district summary affected?
